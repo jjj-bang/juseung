@@ -7,24 +7,23 @@
 
 ### 🛠️ Tech Stacks
 <p align="left">
-  <img src="https://coursera.org/share/3ec92da1c2fc5cd35a1f3b3994fd63b3">
-  <img src="https://shields.io">
-  <img src="https://shields.io">
+  Deep Learning 수료 : https://coursera.org/share/3ec92da1c2fc5cd35a1f3b3994fd63b3
+  python(미시건) 수료 : https://coursera.org/share/e8b1a7f9867960e712c258e4a2a5bef2
+  디지털 회로 수료    : https://coursera.org/share/61dde36d4f3355a569a3beac4156fa7b
   <img src="https://shields.io">
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://vercel.app[본인ID]&show_icons=true&theme=radical)
-![Top Langs](https://vercel.app[본인ID]&layout=compact&theme=radical)
+
 
 ---
 
 ### 🔭 Currently Working On
-*   🌱 **학습 중**: React Native를 활용한 모바일 앱 개발
-*   💻 **프로젝트**: 개인 포트폴리오 사이트 고도화
-*   💬 **관심 분야**: 오픈소스 기여 및 효율적인 코드 작성
+*   🌱 **학습 중**: 딥러닝 실무
+*   💻 **프로젝트**: 인공지능 기반 뇌파 분석
+*   💬 **관심 분야**: BCI, 증권 자동 거래, 머신러닝
 
 ---
 
