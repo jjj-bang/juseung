@@ -8,7 +8,9 @@
 ### 🛠️ Tech Stacks
 <p align="left">
   Deep Learning 수료 : https://coursera.org/share/3ec92da1c2fc5cd35a1f3b3994fd63b3
+
   python(미시건) 수료 : https://coursera.org/share/e8b1a7f9867960e712c258e4a2a5bef2
+  
   디지털 회로 수료    : https://coursera.org/share/61dde36d4f3355a569a3beac4156fa7b
   <img src="https://shields.io">
 </p>
