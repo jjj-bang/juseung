@@ -1,13 +1,13 @@
 # juseung
-# 👋 안녕하세요, [이름 또는 닉네임]입니다!
+# 👋 안녕하세요, AI 엔지니어 방주승입니다!
 
-> "끊임없이 배우고 기록하는 개발자입니다."
+> "주니어 개발자입니다."
 
 ---
 
 ### 🛠️ Tech Stacks
 <p align="left">
-  <img src="https://shields.io">
+  <img src="https://coursera.org/share/3ec92da1c2fc5cd35a1f3b3994fd63b3">
   <img src="https://shields.io">
   <img src="https://shields.io">
   <img src="https://shields.io">
