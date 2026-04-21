@@ -29,6 +29,5 @@
 ---
 
 ### 📫 Contact Me
-*   📧 Email: [이메일 주소]
-*   🔗 Blog: [블로그 주소]
-*   💼 LinkedIn: [링크드인 주소]
+*   📧 Email: jjj44314431@gmail.com
+*   💼 LinkedIn: https://www.linkedin.com/in/%EC%A3%BC%EC%8A%B9-%EB%B0%A9-b167a5396
